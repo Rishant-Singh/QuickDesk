@@ -1,0 +1,14 @@
+:root {
+  --primary: #8b5cf6;
+  --bg-dark: #0f172a;
+  --text-light: #f8fafc;
+}
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg-dark);
+  color: var(--text-light);
+}
+* {
+  box-sizing: border-box;
+}

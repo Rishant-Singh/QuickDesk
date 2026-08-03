@@ -1,0 +1,29 @@
+{
+  "sess_i6ptalt5fmix3exvj": {
+    "id": "sess_i6ptalt5fmix3exvj",
+    "name": "Visitor sess_",
+    "messages": [
+      {
+        "sender": "visitor",
+        "text": "hello",
+        "timestamp": "2026-02-03T05:10:25.532Z"
+      },
+      {
+        "sender": "agent",
+        "text": "hello",
+        "timestamp": "2026-02-03T05:10:53.044Z"
+      },
+      {
+        "sender": "agent",
+        "text": "how may i help u ",
+        "timestamp": "2026-02-03T05:11:04.345Z"
+      },
+      {
+        "sender": "visitor",
+        "text": "i want customer support",
+        "timestamp": "2026-02-03T07:47:23.320Z"
+      }
+    ],
+    "timestamp": "2026-02-03T04:20:01.528Z"
+  }
+}
